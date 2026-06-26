@@ -57,8 +57,13 @@
 - 📱 **RTL + responsive** — מותאם למובייל ולעברית.
 
 ## 🖥️ צילומי מסך
+<img width="947" height="356" alt="image" src="https://github.com/user-attachments/assets/90841e07-a0d4-4f82-8592-ba524e2086c2" />
+<img width="953" height="356" alt="image" src="https://github.com/user-attachments/assets/3761b0ff-43fa-414d-922c-99b396304892" />
+<img width="947" height="349" alt="image" src="https://github.com/user-attachments/assets/f37f9d8a-1f86-428c-917e-89364386c53a" />
 
-> מומלץ להוסיף 2–3 צילומי מסך (מסך החיפוש, מסך התוצאות, ההגדרות). אפשר לראות את הזרימה החיה באתר: <https://i-have-a-word.vercel.app/>
+
+
+
 
 ## 🏗️ ארכיטקטורה
 
